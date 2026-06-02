@@ -20,12 +20,12 @@ This project recreates the classic desktop puzzle game, challenging players to c
 ### Gameplay
 https://github.com/user-attachments/assets/28040636-c6d9-4f21-a412-fb569162fc93
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **Language:** C++
 * **Graphics Library:** SFML (Simple and Fast Multimedia Library) 2.6.1
 * **Environment:** Visual Studio
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 To build and run this project locally, you will need:
